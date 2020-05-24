@@ -13,7 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.19.2",
     "imagesloaded": "^4.1.4",
     "jquery": "^3.2.1",
     "masonry-layout": "^4.2.1",
